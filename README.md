@@ -3,7 +3,7 @@
 Mi nombre es Estefanía Muñoz Miranda, y actualmente soy estudiante de 4to año de la carrera de Ingeniería Civil en Computación de la Universidad de Chile.
 
 Además, desde el año 2021 que soy licenciada del Programa Académico de Bachillerato con el grado de Bachiller con mención en Ciencias Naturales y Exactas. Puedes encontrar mi 
-ensayo monográfico en la pestaña de repositorios con el nombre de Monografía o desde <a href="https://github.com/Estefania-M/Monografia/blob/main/Monograf%C3%ADa_Final_Estefan%C3%ADa_Mu%C3%B1oz.pdf"> aquí. </a>✨
+ensayo monográfico en la pestaña de repositorios con el nombre de Monografía o desde <a href="[https://github.com/Estefania-M/Monografia/blob/main/Monograf%C3%ADa_Final_Estefan%C3%ADa_Mu%C3%B1oz.pdf](https://github.com/Estefania-M/CV-Estefania-M/blob/main/2023.10.15_CV_Estefania_Munoz.pdf)"> aquí. </a>✨
 
 Actualmente, me encuentro en búsqueda de mi primera práctica profesional, por lo que mi curriculum vitae se encuentra disponible en el repositorio con el nombre 
 de CV-Estefania-M, o disponible desde <a href="https://github.com/Estefania-M/CV-Estefania-M/blob/main/CV_Estefania_Munoz_M.pdf"> aquí </a>, el cual 
