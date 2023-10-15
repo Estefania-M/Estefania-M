@@ -6,7 +6,7 @@ Además, desde el año 2021 que soy licenciada del Programa Académico de Bachil
 ensayo monográfico en la pestaña de repositorios con el nombre de Monografía o desde <a href="https://github.com/Estefania-M/CV-Estefania-M/blob/main/2023.10.15_CV_Estefania_Munoz.pdf"> aquí. </a>✨
 
 Actualmente, me encuentro en búsqueda de mi primera práctica profesional, por lo que mi curriculum vitae se encuentra disponible en el repositorio con el nombre 
-de CV-Estefania-M, o disponible desde <a href="https://github.com/Estefania-M/CV-Estefania-M/blob/main/CV_Estefania_Munoz_M.pdf"> aquí </a>, el cual 
+de CV-Estefania-M, o disponible desde <a href="[https://github.com/Estefania-M/CV-Estefania-M/blob/main/CV_Estefania_Munoz_M.pdf](https://github.com/Estefania-M/CV-Estefania-M/blob/0e62fbcc5e22c576a842184dc150d74225cc42b3/2023.10.15_CV_Estefania_Munoz.pdf)"> aquí </a>, el cual 
 fue redactado en LaTeX. 👩‍💻
 
 También en la pestaña de repositorios se encuentran mis otros proyectos que he realizado a lo largo de mi estadía en la Univeridad, como por ejemplo, la modelación gráfica de una ciudad típica con OpenGL, una página web de un sistema de reseñas, entre otros.
