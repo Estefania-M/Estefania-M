@@ -5,7 +5,7 @@ Mi nombre es Estefanía Muñoz Miranda, y actualmente soy estudiante de 5to año
 Además, desde el año 2021 que soy licenciada del Programa Académico de Bachillerato con el grado de Bachiller con mención en Ciencias Naturales y Exactas. Puedes encontrar mi 
 ensayo monográfico en la pestaña de repositorios con el nombre de Monografía o desde <a href="https://github.com/Estefania-M/Monografia/blob/main/Monograf%C3%ADa_Final_Estefan%C3%ADa_Mu%C3%B1oz.pdf"> aquí. </a>✨
 
-Actualmente, me encuentro en búsqueda de nuevos desafíos, por lo que mi currículum vitae se encuentra disponible en el repositorio con el nombre 
+Actualmente, me encuentro en búsqueda de nuevos desafíos laborales, por lo que mi currículum vitae se encuentra disponible en el repositorio con el nombre 
 de CV-Estefania-M, o disponible desde <a href="https://github.com/Estefania-M/CV-Estefania-M/blob/0e62fbcc5e22c576a842184dc150d74225cc42b3/2023.10.15_CV_Estefania_Munoz.pdf"> aquí </a>, el cual fue redactado en LaTeX. 👩‍💻
 
 También en la pestaña de repositorios se encuentran mis otros proyectos que he realizado a lo largo de mi estadía en la Univeridad, como por ejemplo, la modelación gráfica de una ciudad típica con OpenGL, una página web de un sistema de reseñas, entre otros.
